@@ -6,7 +6,7 @@ Solution Structure:
   
   * ElvesRepository.cs is the class where input parsing and the calculation happens
   
-  * FoodFactory.cs is a singleton class to store and generate unique Food name based on calorie value. (Two different foods may have same calorie though! I didn't thought about this situation while writing the factory.)
+  * FoodFactory.cs is a singleton class to store and generate unique Food name based on calorie value. (Two different foods may have same calorie though! I didn't think about this situation while writing the factory.)
   
   * Model classes are located inside CalorieCountingLibrary project
   
