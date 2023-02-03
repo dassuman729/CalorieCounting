@@ -1,9 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/CalorieCountingSolution/CalorieCountingLibrary/obj/Debug
-/CalorieCountingSolution/CalorieCountingLibrary/bin/Debug
-/CalorieCountingSolution/.vs
-/CalorieCountingSolution/CalorieCountingApp/bin/Debug
-/CalorieCountingSolution/CalorieCountingApp/obj/Debug
