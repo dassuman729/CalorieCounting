@@ -1,6 +1,6 @@
 # CalorieCountingApp
 Solution Structure:
-  * CalorieCountingApp project is a windows form application
+  * "CalorieCountingApp" project is a windows form application
   
   * CalorieCalculator.cs is the class to trigger the calculation, it has dependency on IElvesRepository which is being injected through constructer
   
