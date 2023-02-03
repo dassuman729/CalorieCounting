@@ -10,7 +10,7 @@ Solution Structure:
   
   * Model classes are located inside CalorieCountingLibrary project
   
-  * There is opportunity to write Unit Tests around CalorieCalculator class to test some edge case scenarios defiened in ElvesRepository.cs
+  * There is opportunity to write Unit Tests around CalorieCalculator class to test some edge case scenarios handled in ElvesRepository.cs
   
 To run the application please select "CalorieCountingApp" as start-up project
 
