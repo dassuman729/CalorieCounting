@@ -14,4 +14,4 @@ Solution Structure:
   
 To run the application please select "CalorieCountingApp" as start-up project
 
-Please add your input to the Input textbox and hit Find "Find Elf With Max Calories" button to see the output
+Please add your input to the Input textbox and hit "Find Elf With Max Calories" button to see the output
